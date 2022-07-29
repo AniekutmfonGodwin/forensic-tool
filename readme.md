@@ -31,7 +31,7 @@
 &nbsp;
 
 
-## Password Genrator
+## Password Generator
 ### Password generator Commands 
     ...>pgen -l [length of password]
 ### the length is the length of password to be generated.
